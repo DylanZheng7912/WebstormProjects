@@ -1,0 +1,16 @@
+//哪個版本
+console.log('process.version : '+process.version)
+
+console.log('process.versions : '+process.versions)
+console.log('process.argv[0] : '+process.argv[0])
+console.log('process.argv[1] : '+process.argv[1])
+console.log('process.pid : '+process.pid)
+console.log('process.title : '+process.title)
+console.log('process.config : ')
+console.log(process.config)
+console.log('process.arch : '+process.arch)
+console.log('process.platform : '+process.platform)
+console.log('process.memoryUsage() : ')
+console.log(process.memoryUsage())
+console.log('process.uptime() : '+process.uptime())
+console.log('process.hrtime() : '+process.hrtime())
