@@ -25,3 +25,6 @@ console.log(os.freemem())
 console.log(os.cpus())
 //列出目前有啟動的網路介面資訊
 console.log(os.networkInterfaces())
+
+
+
